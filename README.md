@@ -61,12 +61,17 @@ ispositive or negative from the score, and after each sentence is analyzed, we c
 paragraph.The results show that the text has a score of -0.7 and a magnitude of 3.7, which means this text is clearly negative and relatively full of 
 emotion.
 
+---------
+
 - ***Using Result***:  
 We will try to use some other .txt file to analyze the sentiment status and emotional fullness and evaluate the accuracy of this system we have implemented. Using sample will be shown below.
 
 ![Using Text Sample](https://github.com/Sun-zhenghao-BU/Github_Image_Library/blob/main/Images_For_601_Pro2/pic7.png)
 > **Fig 4** Using Text Sample
 
+It is easy to find that the emotional fullness of this test is highly passionate and the tendency of this text is inclined to positive. Now, we need to prove that whether the result of this using sample is identical to what we have feeled from this text.
+
 ![Using Text Sample Result](https://github.com/Sun-zhenghao-BU/Github_Image_Library/blob/main/Images_For_601_Pro2/pic6.png)
 > **Fig 5** Using Sample Result
 
+Obivously, score is 0.3 and magnitude of this text is 10, which is almost the same result as we predicted before.
