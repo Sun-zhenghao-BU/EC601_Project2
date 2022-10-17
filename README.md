@@ -40,3 +40,5 @@ The sentiment score of a document indicates the overall sentiment of the documen
 document's sentiment indicates how much emotional content is present in the document, and this value is usually proportional to the length of the
 document.Be sure to use magnitude values to adjust your scores when comparing documents to each other, as they can help measure the amount of relevant 
 emotional content.
+
+&emsp;&emsp;![The picture above shows some sample values and how to interpret them:]()
