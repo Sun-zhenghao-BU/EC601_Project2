@@ -44,17 +44,14 @@ document's sentiment indicates how much emotional content is present in the docu
 document.Be sure to use magnitude values to adjust your scores when comparing documents to each other, as they can help measure the amount of relevant 
 emotional content.
 
-![The picture above shows some sample values and how to interpret them](https://github.com/Sun-zhenghao-BU/Github_Image_Library/blob/main/Images_For_601_Pro2/pic1.png)
-> **Fig 1** The picture above shows some sample values and how to interpret them.
+<img width="691" alt="pic1" src="https://user-images.githubusercontent.com/103909747/196258435-5a5d657f-0371-4947-a0b0-9cefba80f071.png">
 
 - ***Test Sample***:  
 I chose the text of lines from *Bladerunner*, both ends of the movie as the detection dataset, and the lines reflect negative emotions. Test Sample will be shown below.
 
-![Negative Text Sample](https://github.com/Sun-zhenghao-BU/Github_Image_Library/blob/main/Images_For_601_Pro2/pic2.png)
-> **Fig 2** Negative Text Sample
+<img width="384" alt="pic2" src="https://user-images.githubusercontent.com/103909747/196258554-43cbe938-29db-4629-8d27-4d42e8cb9250.png">
 
-![Negative Text Sample Result](https://github.com/Sun-zhenghao-BU/Github_Image_Library/blob/main/Images_For_601_Pro2/pic5.png)
-> **Fig 3** Negative Text Sample Result
+<img width="789" alt="pic5" src="https://user-images.githubusercontent.com/103909747/196258603-828b26a9-e44a-4147-afeb-e55d9b7d57f4.png">
 
 In the case of the negative text, we can clearly and intuitively understand the meaning of several parameters: the emotional attitude of each sentence 
 ispositive or negative from the score, and after each sentence is analyzed, we can see the final sentiment value and emotional fullness of the 
@@ -66,14 +63,12 @@ emotion.
 - ***Using Result***:  
 We will try to use some other .txt file to analyze the sentiment status and emotional fullness and evaluate the accuracy of this system we have implemented. Using sample will be shown below.
 
-![Using Text Sample](https://github.com/Sun-zhenghao-BU/Github_Image_Library/blob/main/Images_For_601_Pro2/pic7.png)
-> **Fig 4** Using Text Sample
+<img width="661" alt="pic7" src="https://user-images.githubusercontent.com/103909747/196258677-71418972-e256-4150-a7a0-77027d33e27c.png">
 
 It is easy to find that the emotional fullness of this test is highly passionate and the tendency of this text is inclined to positive. Now, we need to prove that whether the result of this using sample is identical to what we have feeled from this text.
 
 ------
 
-![Using Text Sample Result](https://github.com/Sun-zhenghao-BU/Github_Image_Library/blob/main/Images_For_601_Pro2/pic6.png)
-> **Fig 5** Using Sample Result
+<img width="763" alt="pic6" src="https://user-images.githubusercontent.com/103909747/196258706-b899fad7-adf4-4a4a-b784-99f88ff3e676.png">
 
 Obivously, score is 0.3 and magnitude of this text is 10, which is almost the same result as we predicted before.
