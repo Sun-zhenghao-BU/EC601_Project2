@@ -51,6 +51,10 @@ respectively. Test Sample will be shown below.
 ![Negative Text Sample](https://github.com/Sun-zhenghao-BU/Github_Image_Library/blob/main/Images_For_601_Pro2/pic2.png)
 > **Fig 2** Negative Text Sample
 
-&emsp;&emsp;![Postive Text Sample](https://github.com/Sun-zhenghao-BU/Github_Image_Library/blob/main/Images_For_601_Pro2/pic3.png)
-> **Fig 3** Positive Text Sample
+&emsp;&emsp;![Negative Text Sample Result](https://github.com/Sun-zhenghao-BU/Github_Image_Library/blob/main/Images_For_601_Pro2/pic5.png)
+> **Fig 3** Negative Text Sample Result
+
+In the case of the negative text, we can clearly and intuitively understand the meaning of several parameters: the emotional attitude of each sentence 
+ispositive or negative from the score, and after each sentence is analyzed, we can see the final sentiment value and emotional fullness of the paragraph.The results show that the text has a score of -0.7 and a magnitude of 3.7, which means this text is clearly negative and relatively full of 
+emotion.
 
