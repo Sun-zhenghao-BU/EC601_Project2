@@ -41,4 +41,5 @@ document's sentiment indicates how much emotional content is present in the docu
 document.Be sure to use magnitude values to adjust your scores when comparing documents to each other, as they can help measure the amount of relevant 
 emotional content.
 
-&emsp;&emsp;![The picture above shows some sample values and how to interpret them:]([Images_For_601_Pro2/pic1.png](https://github.com/Sun-zhenghao-BU/Github_Image_Library/blob/main/Images_For_601_Pro2/pic1.png))
+&emsp;&emsp;![The picture above shows some sample values and how to interpret them](https://github.com/Sun-zhenghao-BU/Github_Image_Library/blob/main/Images_For_601_Pro2/pic1.png)
+> **Fig 1** The picture above shows some sample values and how to interpret them.
