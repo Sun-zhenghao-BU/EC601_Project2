@@ -71,6 +71,8 @@ We will try to use some other .txt file to analyze the sentiment status and emot
 
 It is easy to find that the emotional fullness of this test is highly passionate and the tendency of this text is inclined to positive. Now, we need to prove that whether the result of this using sample is identical to what we have feeled from this text.
 
+------
+
 ![Using Text Sample Result](https://github.com/Sun-zhenghao-BU/Github_Image_Library/blob/main/Images_For_601_Pro2/pic6.png)
 > **Fig 5** Using Sample Result
 
