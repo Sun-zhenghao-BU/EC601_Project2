@@ -43,3 +43,14 @@ emotional content.
 
 &emsp;&emsp;![The picture above shows some sample values and how to interpret them](https://github.com/Sun-zhenghao-BU/Github_Image_Library/blob/main/Images_For_601_Pro2/pic1.png)
 > **Fig 1** The picture above shows some sample values and how to interpret them.
+
+- ***Test Sample***:  
+I chose the text of lines from *Bladerunner*, both ends of the movie as the detection dataset, and the lines reflect positive and negative emotions
+respectively. Test Sample will be shown below.
+
+![Negative Text Sample](https://github.com/Sun-zhenghao-BU/Github_Image_Library/blob/main/Images_For_601_Pro2/pic2.png)
+> **Fig 2** Negative Text Sample
+
+&emsp;&emsp;![Postive Text Sample](https://github.com/Sun-zhenghao-BU/Github_Image_Library/blob/main/Images_For_601_Pro2/pic3.png)
+> **Fig 3** Positive Text Sample
+
